@@ -42,6 +42,8 @@ npm -v
 **Step 3** : After accepting all the requests press finish button. By default, VS Code installs under: “C:\users{username}\AppData\Local\Programs\Microsoft VS Code.
 
 
+
+
 ## Mac OS
 
 ### Install Node.js and NPM
@@ -74,6 +76,8 @@ npm -v
 **Step 3** : Drag Visual Studio Code.app to the Applications folder, making it available in the Launchpad.
 
 **Step 4** : Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing Options, Keep in Dock.
+
+
 
 
 ## Usefull commands
