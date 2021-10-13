@@ -50,7 +50,7 @@ npm -v
 
 **Step 1: Download Node.js Installer**
 
-Navigate to https://nodejs.org/en/download/. Download Node.js for macOS by clicking the "Macintosh Installer" option The Node.js installer includes the NPM package manager.
+Navigate to https://nodejs.org/en/download/. Download Node.js for macOS by clicking the "Macintosh Installer" option. It includes the NPM package manager as well.
 
 **Step 2: Install Node.js and NPM**
 
