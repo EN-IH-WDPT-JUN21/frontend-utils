@@ -84,7 +84,7 @@ npm -v
 
 **How to install extensions in VScode**
 
-Simply type cmd + shift + x (on a Mac) or ctrl + shift + x (on a PC) to bring up the View: Extensions panel or Open the “Extensions” sidebar
+Simply type cmd + shift + x (on a Mac) or ctrl + shift + x (on a PC) to bring up the View: Extensions panel or Open the “Extensions” sidebar. 
 Type and search any extension, select and install it.  
 
 > Recommended extension to VS Code: - Angular Language Service - TS Lint (Microsoft version)
